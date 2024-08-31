@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This is my very first personal portxfolio website showcasing skills, experiences, and projects. The site is designed to provide a comprehensive overview of my background, including my professional experience, skills, education, and interests. In fact, this website is one of the very first I built. Using bootstrap, I've decided to focus on perfect responsiveness and minimalistic design.
+This is my very first personal portfolio website showcasing skills, experiences, and projects. The site is designed to provide a comprehensive overview of my background, including my professional experience, skills, education, and interests. In fact, this website is one of the very first I built. Using bootstrap, I've decided to focus on perfect responsiveness and minimalistic design.
 
 **The website if available only in polish**
 
