@@ -4,7 +4,9 @@
 
 This is my very first personal portfolio website showcasing skills, experiences, and projects. The site is designed to provide a comprehensive overview of my background, including my professional experience, skills, education, and interests. In fact, this website is one of the very first I built. Using bootstrap, I've decided to focus on perfect responsiveness and minimalistic design.
 
-**The website if available only in polish**
+**The website is available only in polish**
+
+**Contents of this portfolio have not been updated in 3 years!**
 
 ## Technologies Used
 
@@ -42,8 +44,19 @@ The portfolio is designed to be fully responsive, ensuring it looks great on var
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License].
 
 ## Contact
 
 For questions or further information, please contact me on Linkedin for example.
+
+## Screenshots:
+
+Homepage:
+<img width="1512" alt="Zrzut ekranu 2024-09-3 o 12 54 58" src="https://github.com/user-attachments/assets/718e0f22-04b7-4aca-aefb-040b72306759">
+
+Graphic projects:
+<img width="1512" alt="Zrzut ekranu 2024-09-3 o 12 56 06" src="https://github.com/user-attachments/assets/a3467c4c-769a-4f45-8bd0-5e8947c034c1">
+
+Gallery:
+<img width="1512" alt="Zrzut ekranu 2024-09-3 o 12 56 29" src="https://github.com/user-attachments/assets/94687d28-3471-4575-b0c8-de691294e460">
